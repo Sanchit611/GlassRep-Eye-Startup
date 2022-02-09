@@ -1,7 +1,7 @@
 <!-- # GlassRep : Wear the Best
 ![image](https://user-images.githubusercontent.com/79566726/119214123-e78b3500-bae1-11eb-920a-b4e0d755a242.png) -->
 
-# GlassRep-Eye-Startup
+# GLASSREP (AN EYEWEAR STARTUP)
 
 ![image](https://user-images.githubusercontent.com/79566726/121449362-480de380-c9b7-11eb-9ea7-dc9fa7e8e23f.png)
 
